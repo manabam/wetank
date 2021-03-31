@@ -1,9 +1,9 @@
 # wetank
 우리팀의 깃허브 연습용 저장소
 
-##1. html 시작: ! tab 버튼
+## 1. html 시작: ! tab 버튼
 
-##2.기본 용어 정리(html)
+## 2.기본 용어 정리(html)
 
 -title:
  인터넷 위 사이트 타이틀명 
@@ -34,7 +34,10 @@ h1
 
 
 
-##css 연동 시 주의 사항
+## css 연동 시 주의 사항
+```html
+<link rel="stylesheet" href="css/main.css">
+```
 css폴더 안에 main.css 파일을 연결 설정
 =css/main.css
 
